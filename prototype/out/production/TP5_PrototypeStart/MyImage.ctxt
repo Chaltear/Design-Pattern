@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=path
+comment0.target=MyImage(String)
+comment1.params=g
+comment1.target=void\ paintComponent(Graphics)
+comment1.text=\nDrawing\ an\ image\ can\ allow\ for\ more\nflexibility\ in\ processing/editing.\n\n
+comment2.target=void\ display()
+comment3.params=otherimage\ decalx\ decaly
+comment3.target=void\ paintOver(String,\ int,\ int)
+numComments=4

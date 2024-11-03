@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=s\ x\ y
+comment0.target=Soldier(String,\ int,\ int)
+comment1.params=i
+comment1.target=void\ paintOver(MyImage)
+comment2.params=x
+comment2.target=void\ setx(int)
+comment3.params=y
+comment3.target=void\ sety(int)
+numComments=4

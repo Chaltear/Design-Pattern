@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=d\ maxx\ maxy\ minx\ miny
+comment0.target=Scene(String,\ int,\ int,\ int,\ int)
+comment1.target=int\ getMaxX()
+comment2.target=int\ getMaxY()
+comment3.target=int\ getMinX()
+comment4.target=int\ getMinY()
+comment5.params=s
+comment5.target=void\ addSoldier(Soldier)
+comment6.target=void\ render()
+numComments=7
